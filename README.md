@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, mi nombre es Javier Moyano</h1>
 <h3 align="center">Soy un Frontend Developer apasionado de Argetina en camino a ser Fullstack</h3>
 
-- 💬 Ask me about **html, css, javascript, react js, nodejs, express**
+- 💬 Ask me about **HTML, CSS, Javascript, React js, Redux, Nodejs, Express, Sequalize **
 
 - 📫 How to reach me **javymoyano80@gmail.com**
 
