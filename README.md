@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, mi nombre es Javier Moyano</h1>
-<h3 align="center">Soy un Fullstack Developer de Argetina en constante movimiento</h3>
+<h3 align="center">Soy un Fullstack Developer de Argentina en constante movimiento y aprendizaje</h3>
 
 - 💬 Ask me about **HTML, CSS, Tailwind, Javascript, React js, Redux, Nodejs, Express, Sequalize, PostgreSQL, Git **
 
