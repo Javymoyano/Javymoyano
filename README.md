@@ -16,4 +16,15 @@
   </a> 
   <a href="https://leafletjs.com" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/leafletjs/leafletjs-icon.svg" alt="leaflet" width="40" height="40"/> 
-  </a>  </p>
+  </a>  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
+  </a>
+  <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <i class="devicon-git-plain colored" style="font-size: 40px;"></i>
+  </a>
+  <a href="https://www.elastic.co" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elasticsearch/elasticsearch-original.svg" alt="elasticsearch" width="40" height="40"/>
+  </a> </p>
