@@ -35,5 +35,10 @@
 <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
     
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="git" width="40" height="40" />
+          
           
   </a> </p>
