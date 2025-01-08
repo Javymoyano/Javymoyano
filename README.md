@@ -31,4 +31,9 @@
   </a>
   <a href="https://www.elastic.co" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elasticsearch/elasticsearch-original.svg" alt="elasticsearch" width="40" height="40"/>
+  </a> 
+<a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
+    
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/>
+          
   </a> </p>
